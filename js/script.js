@@ -1,0 +1,1 @@
+document.getElementById("p1").innerHTML="omid sadat is from afganistan and he was born in kabul jan";
